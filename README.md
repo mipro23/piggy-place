@@ -2,6 +2,9 @@
 
 Современный, адаптивный веб-сайт для уникального московского антикафе с мини-пигами **«Пигги Плейс»**, расположенного в самом центре столицы у метро Белорусская.
 
+* 🌐 **Живой сайт на GitHub Pages:** [https://mipro23.github.io/piggy-place/](https://mipro23.github.io/piggy-place/)
+* 📦 **Репозиторий проекта:** [https://github.com/mipro23/piggy-place](https://github.com/mipro23/piggy-place)
+
 ---
 
 ## 📍 Основная информация о заведении
